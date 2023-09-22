@@ -1,0 +1,7 @@
+function tocaSom (idElementoAudio)
+
+
+
+
+
+\\ para
