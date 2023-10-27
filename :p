@@ -1,1 +1,27 @@
-
+var caraterPilConors = "arrogante";
+var dia = 1;
+while (caraterPilConors  == "arrogante"){
+    if (dia == 1){
+        console.log(dia+") Aprenda a ter Humildade e Empatia");
+    }
+    if (dia == 2){
+        console.log(dia+") Aprenda a ter Bondade e Gentileza");
+    }
+    if (dia == 3){
+        console.log(dia+") Aprenda a ter Amor Verdadeiro");
+    }
+    if (dia == 4){
+        console.log(dia+") Aprecie a Vida Cotidiana");
+    }
+    if (dia == 5){
+        caraterPilConors = "Phil Connors se tornou uma pessoa melhor";
+        console.log(caraterPilConors);
+    }
+    dia = dia + 1;
+}
+VM97:5 1) Aprenda a ter Humildade e Empatia
+VM97:8 2) Aprenda a ter Bondade e Gentileza
+VM97:11 3) Aprenda a ter Amor Verdadeiro
+VM97:14 4) Aprecie a Vida Cotidiana
+VM97:18 Phil Connors se tornou uma pessoa melhor
+6
